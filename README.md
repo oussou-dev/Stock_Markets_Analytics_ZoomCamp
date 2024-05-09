@@ -1,5 +1,6 @@
 # **Stock Market Analytics Zoomcamp**
 
+[Course Materials](https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp)
 
 ## **Syllabus**
 
